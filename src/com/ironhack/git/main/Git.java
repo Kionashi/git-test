@@ -6,5 +6,6 @@ public class Git {
         System.out.println("Hello git from new feature");
         System.out.println("change");
         System.out.println("new line of code");
+        System.out.println("another line");
     }
 }
